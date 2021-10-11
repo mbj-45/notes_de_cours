@@ -52,6 +52,5 @@ git
 forquer = ameliorer
 merge  = fusion
 
-
-
+panding
 
